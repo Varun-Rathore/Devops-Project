@@ -1,1 +1,1 @@
-This repository is made for devops project
+This repository is made for DevOps project.
